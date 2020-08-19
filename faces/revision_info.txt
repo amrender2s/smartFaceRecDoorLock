@@ -1,0 +1,7 @@
+arguments: align_dataset_mtcnn.py ./data ./faces
+--------------------
+tensorflow version: 1.14.0
+--------------------
+git hash: b''
+--------------------
+b''
